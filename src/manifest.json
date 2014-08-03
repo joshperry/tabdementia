@@ -1,0 +1,13 @@
+{
+  "name": "Tab Dementia",
+  "description": "Some things just are not meant to be remembered for all-time. Do you remember, a week ago, reading reviews on Yelp about that Greek place on 52nd? Yeah, neither should your browser.",
+  "version": "0.1",
+  "permissions": [
+    "idle",
+    "tabs"
+  ],
+  "background": {
+    "page": "background.html"
+  },
+  "manifest_version": 2
+}
