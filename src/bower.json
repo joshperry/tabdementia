@@ -1,0 +1,21 @@
+{
+  "name": "tabdementia",
+  "version": "0.0.1",
+  "authors": [
+    "Joshua Perry <josh@6bit.com>"
+  ],
+  "description": "Make Chrome forget about tabs that you have forgotten about",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0-rc.5",
+    "lodash": "~2.4.1"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "Tab Dementia",
-  "description": "Some things just are not meant to be remembered for all-time. Do you remember, a week ago, reading reviews on Yelp about that Greek place on 52nd? Yeah, neither should your browser.",
+  "description": "Do you remember, a week ago, clicking some linkbait on twitter which opened a new tab? Yeah, neither should your browser.",
   "version": "0.1",
   "permissions": [
     "idle",
@@ -9,5 +9,6 @@
   "background": {
     "page": "background.html"
   },
+  "options_page": "options.html",
   "manifest_version": 2
 }
